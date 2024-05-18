@@ -1,0 +1,9 @@
+{
+    "files": [
+        "view.py",
+        "view.ui",
+        "mvc_app.py",
+        "model.py",
+        "controller.py"
+    ]
+}

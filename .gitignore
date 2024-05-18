@@ -1,8 +1,10 @@
-*/__pycache__/
-*/.qtcreator/
-
 # This file is used to ignore files which are generated
 # ----------------------------------------------------------------------------
+
+mvc_app/__pycache__/*
+simple_demo/.qtcreator/Python_3_11_9venv/
+mvc_app/.qtcreator/Python_3_11_9venv/
+
 
 *~
 *.autosave
