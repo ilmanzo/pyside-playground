@@ -2,7 +2,10 @@
 # ----------------------------------------------------------------------------
 
 **/__pycache__/
-**/.qtcreator/
+**/.qtcreator/Python_3_11_9venv/bin/
+**/.qtcreator/Python_3_11_9venv/include/
+**/.qtcreator/Python_3_11_9venv/lib/
+**/.qtcreator/Python_3_11_9venv/lib64
 
 *~
 *.autosave
